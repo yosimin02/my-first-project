@@ -1,5 +1,4 @@
-# my-first-project
-# My First Project
+# my-first-projec
 
 Hi, I'm learning GitHub 🚀
 
